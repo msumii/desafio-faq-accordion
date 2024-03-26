@@ -1,0 +1,11 @@
+@media (max-width: 375px) {
+    body {
+        background-image: url(../images/background-pattern-mobile.svg);
+        padding: 0 25px;
+    }
+
+    .faq-container h1 {
+        font-size: 3.4rem;
+        margin-left: 20px;
+    }
+}
