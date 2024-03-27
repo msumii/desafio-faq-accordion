@@ -7,6 +7,7 @@ html {
 
 body {
     background: hsl(275, 100%, 97%) url(../images/background-pattern-desktop.svg)no-repeat;
+    background-size: contain;
 }
 
 h1,
